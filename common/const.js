@@ -1,0 +1,10 @@
+module.exports={
+    RESPONSE_CODE_PREFIX:"LMS",
+    ROOT_PATH:"uploads",
+    collections:{
+        users:"users",
+        admins:"admins",
+        rents:"rents",
+        books:"books"
+    }
+}
